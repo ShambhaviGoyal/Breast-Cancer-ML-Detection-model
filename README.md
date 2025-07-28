@@ -48,8 +48,11 @@ Each row represents data from one patient, including a unique ID, diagnosis labe
 - Discussed real-world implications and limitations of the analysis
 - Suggested areas for further research, such as deeper neural networks or real-time diagnostics
 
+---
 ## Demo
 [Click here to view the video demo](https://i.imgur.com/w3kEA0t.mp4)
+
+---
 
 ## ✅ Key Findings
 - Some features (especially "_worst" and "_mean" values) carry strong predictive power.
