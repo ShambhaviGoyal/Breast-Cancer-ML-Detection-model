@@ -17,7 +17,7 @@ Each row represents data from one patient, including a unique ID, diagnosis labe
 ---
 ## 🎥 Demo
 
-[▶️ Watch the Demo](https://github.com/user-attachments/assets/f25fa777-3fcb-494c-9593-d784ff544d80)
+[▶️ Watch the Demo](https://github.com/user-attachments/assets/03792c2a-300e-4d7f-a03c-0628e11fdbf4)
 
 
 
