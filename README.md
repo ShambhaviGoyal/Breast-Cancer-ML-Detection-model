@@ -15,6 +15,11 @@ This project aims to build a predictive machine learning model to diagnose wheth
 Each row represents data from one patient, including a unique ID, diagnosis label, and numeric measurements of tumor features calculated from digital mammogram images.
 
 ---
+## 🎥 Demo
+
+[▶️ Watch the Demo](https://github.com/user-attachments/assets/f25fa777-3fcb-494c-9593-d784ff544d80)
+
+
 
 ## 🛠️ Project Steps
 
@@ -49,11 +54,6 @@ Each row represents data from one patient, including a unique ID, diagnosis labe
 - Suggested areas for further research, such as deeper neural networks or real-time diagnostics
 
 ---
-
-## 🎥 Demo
-
-[▶️ Watch the Demo]()
-
 
 ---
 
